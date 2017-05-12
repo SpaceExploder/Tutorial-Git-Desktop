@@ -1,0 +1,43 @@
+.style {
+    font-family: Corbel, sans-serif;
+}
+
+h1.style,
+h2.style,
+h3.style,
+h4.style,
+h5.style,
+h6.style {
+    font-weight: 100;
+    text-align: center;
+    margin: 20px;
+}
+
+h1.style {
+    font-size: 60px;
+}
+
+h2.style {
+    font-size: 50px;
+}
+
+h3.style {
+    font-size: 40px;
+}
+
+h4.style {
+    font-size: 35px;
+}
+
+h5.style {
+    font-size: 30px;
+}
+
+h6.style {
+    font-size: 25px;
+}
+
+p.style {
+    font-size: 20px;
+    margin: 30px;
+}
